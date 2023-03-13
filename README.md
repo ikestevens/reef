@@ -5,4 +5,4 @@ P5js project minted into an Fxhash project [here:](https://www.fxhash.xyz/genera
 
 Example here:
 
-![Alt Text](image (13).gif)
+![Alt Text](final_image.gif)
